@@ -1,0 +1,28 @@
+Pliegue 1 de 5
+Precisión: 1.0000
+Pérdida: 0.1419
+Precision ponderada: 1.0000
+Recall ponderado: 1.0000
+F1 ponderado: 1.0000
+
+Reporte de clasificación:
+                       precision    recall  f1-score   support
+
+            CEO_FRAUD       1.00      1.00      1.00         8
+        ESTAFA_EMPLEO       1.00      1.00      1.00         8
+       ESTAFA_LOTERIA       1.00      1.00      1.00         8
+     ESTAFA_ROMANTICA       1.00      1.00      1.00         8
+       FRAUDE_SOPORTE       1.00      1.00      1.00         8
+      MALWARE_ADJUNTO       1.00      1.00      1.00         8
+         NO_MALICIOSO       1.00      1.00      1.00        34
+             PHARMING       1.00      1.00      1.00         8
+    PHISHING_BANCARIO       1.00      1.00      1.00         8
+PHISHING_CREDENCIALES       1.00      1.00      1.00         8
+            SCAREWARE       1.00      1.00      1.00         8
+           SEXTORSION       1.00      1.00      1.00         8
+             SMISHING       1.00      1.00      1.00         8
+              VISHING       1.00      1.00      1.00         8
+
+             accuracy                           1.00       138
+            macro avg       1.00      1.00      1.00       138
+         weighted avg       1.00      1.00      1.00       138

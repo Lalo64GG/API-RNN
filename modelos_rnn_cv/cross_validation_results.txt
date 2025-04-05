@@ -1,0 +1,49 @@
+Resultados de validación cruzada con 5 pliegues:
+Precisión promedio: 0.9913 (±0.0054)
+Pérdida promedio: 0.1647 (±0.0219)
+Precision ponderada promedio: 0.9923 (±0.0048)
+Recall ponderado promedio: 0.9913 (±0.0054)
+F1 ponderado promedio: 0.9912 (±0.0055)
+Tiempo promedio por pliegue: 61.70 segundos
+
+Detalles por pliegue:
+Pliegue 1:
+  Precisión: 1.0000
+  Pérdida: 0.1419
+  Precision ponderada: 1.0000
+  Recall ponderado: 1.0000
+  F1 ponderado: 1.0000
+  Tiempo de entrenamiento: 77.82 segundos
+
+Pliegue 2:
+  Precisión: 0.9855
+  Pérdida: 0.1612
+  Precision ponderada: 0.9863
+  Recall ponderado: 0.9855
+  F1 ponderado: 0.9855
+  Tiempo de entrenamiento: 64.65 segundos
+
+Pliegue 3:
+  Precisión: 0.9855
+  Pérdida: 0.2039
+  Precision ponderada: 0.9884
+  Recall ponderado: 0.9855
+  F1 ponderado: 0.9853
+  Tiempo de entrenamiento: 49.07 segundos
+
+Pliegue 4:
+  Precisión: 0.9927
+  Pérdida: 0.1695
+  Precision ponderada: 0.9935
+  Recall ponderado: 0.9927
+  F1 ponderado: 0.9927
+  Tiempo de entrenamiento: 59.10 segundos
+
+Pliegue 5:
+  Precisión: 0.9927
+  Pérdida: 0.1472
+  Precision ponderada: 0.9935
+  Recall ponderado: 0.9927
+  F1 ponderado: 0.9927
+  Tiempo de entrenamiento: 57.86 segundos
+
